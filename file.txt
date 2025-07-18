@@ -1,1 +1,2 @@
 echo "Initial code" 
+"Feature 1 work" 
